@@ -17,9 +17,9 @@
 
 ## ⚡ Descripción del Proyecto
 
-**Zona Fit** es una aplicación de consola robusta diseñada para gestionar el ciclo de vida de los clientes de un gimnasio. El proyecto destaca por implementar **buenas prácticas de programación**, separando la lógica de negocio del acceso a datos mediante el patrón **DAO (Data Access Object)**.
+**Zona Fit** es una aplicación de consola, diseñada para gestionar el ciclo de vida de los clientes de un gimnasio. El proyecto destaca por implementar **buenas prácticas de programación**, separando la lógica de negocio del acceso a datos mediante el patrón **DAO (Data Access Object)**.
 
-A diferencia de programas básicos, este sistema incluye **validaciones de seguridad** avanzadas para garantizar la integridad de los datos antes de que lleguen a la base de datos.
+este sistema incluye **validaciones** para garantizar la integridad de los datos antes de que lleguen a la base de datos.
 
 ---
 
