@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Terminado-success?style=for-the-badge)
 
 <p align="center">
-  <strong>Sistema profesional de administración para gimnasios (CRUD) desarrollado en Java con arquitectura por capas y persistencia en MySQL.</strong>
+  <strong>Sistema simple de administración para gimnasios (CRUD) desarrollado en Java con arquitectura por capas y persistencia en MySQL.</strong>
 </p>
 
 </div>
